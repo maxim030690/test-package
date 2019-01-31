@@ -70,10 +70,3 @@ class Images
         return pathinfo($url, PATHINFO_EXTENSION);
     }
 }
-
-//$url = 'https://city.com.ua/redmond rmc-m92s1.jpg';
-//$url = 'https://kor.ill.in.ua/m/610x386/2271658.jpg';
-//
-//
-//$a = new Images();
-//$a->uploadImage($url);
