@@ -3,7 +3,8 @@
     "description": "The Test Task",
     "type": "library",
     "require": {
-        "php": "^7.0"
+        "php": "^7.0",
+        "phpunit/phpunit": "^7"
     },
     "license": "BSD-3-Clause",
     "authors": [
