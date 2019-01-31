@@ -1,6 +1,6 @@
 <?php
 
-namespace tkachev\images;
+namespace Tkachev\Testing;
 
 class Images
 {

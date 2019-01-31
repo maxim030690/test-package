@@ -15,7 +15,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "tkachev\\images\\": "src/"
+            "Tkachev\\Testing\\": "src/"
         }
     },
     "minimum-stability": "stable"
